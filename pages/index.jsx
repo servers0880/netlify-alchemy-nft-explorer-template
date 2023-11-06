@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <main className={styles.main}>
-        <Server Gallery />
+        <"Server Gallery" />
       </main>
     </div>
   );
